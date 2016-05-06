@@ -2,6 +2,7 @@
 Practicas realizadas en la asignatura de Fundamentos de Programación en la ETSIIT con el profesor Juan Carlos Cubero
 en el curso 2015-2016.
 Todos los ejercicios son de C++ y con un solo archivo por ejercicio.
+Los archivos están divididos por branches según la sesión a la que pertenezcan.
 
 ## Enunciados de las practicas
 
