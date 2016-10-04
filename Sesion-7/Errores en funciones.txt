@@ -1,0 +1,30 @@
+int ValorAbsoluto (int entero) {
+if (entero < 0)
+entero = -entero;
+else
+return entero;
+}
+
+Sobra el else.
+
+void Imprime(double valor) {
+double valor;
+cout << valor;
+}
+
+No hay que declarar la variable valor otra vez.
+
+void Cuadrado (int entero) {
+return entero*entero;
+}
+
+En una función void no se hacen computos,
+hay que cambiar el void por otro tipo de función.
+
+bool EsPositivo(int valor) {
+if (valor > 0)
+return true;
+}
+
+Si valor es menor que 0, EsPositivo se queda indeterminado,
+hay que añadir un else.
